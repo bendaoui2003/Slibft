@@ -6,7 +6,7 @@
 /*   By: mbendaou <mbendaou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/13 10:00:03 by mbendaou          #+#    #+#             */
-/*   Updated: 2026/10/15 10:45:30 by mbendaou         ###   ########.fr       */
+/*   Updated: 2026/10/17 17:05:18 by mbendaou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -40,9 +40,3 @@ void	*ft_memmove(void *dest, const void *src, size_t n)
 	}
 	return (dest);
 }
-/*int main()
-{
-    char str[] = "ABCDE";
-    ft_memmove(str + 1, str, 4);
-    printf("%s", str);
-}*/

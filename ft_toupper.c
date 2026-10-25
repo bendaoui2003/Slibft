@@ -6,12 +6,12 @@
 /*   By: mbendaou <mbendaou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/12 15:33:54 by mbendaou          #+#    #+#             */
-/*   Updated: 2026/10/14 19:53:41 by mbendaou         ###   ########.fr       */
+/*   Updated: 2026/10/15 11:02:53 by mbendaou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-          
+
 int	ft_toupper(int c)
 {
 	if (c >= 'a' && c <= 'z')
